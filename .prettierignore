@@ -1,0 +1,25 @@
+node_modules
+build
+dist
+output
+.nuxt
+.husky
+
+.eslintrc.js
+.prettierrc.js
+tsconfig.json
+package.json
+tsconfig.ts
+README.md
+
+.local
+**/*.svg
+**/*.sh
+
+/public/*
+
+# 如果不希望 prettier 检查代码文件的话
+*.ts
+*.tsx
+*.jsx
+*.js
