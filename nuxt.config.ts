@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   runtimeConfig: {
     public: {
-      baseUrl: 'http://api.qiegang.com'
+      baseUrl: 'xxx.com'
     }
   },
   modules: [
